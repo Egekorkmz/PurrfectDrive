@@ -38,4 +38,16 @@ Generates detailed session reports to help users understand their progress and a
 
 # The Project Video:
 https://github.com/user-attachments/assets/201ef4e2-aa02-45df-8b47-c451d53b9cea
+ 
+# Team Members and Contributions
+1. Ege Korkmaz — Unity Developer:
+Developed the user management and feedback system. Collaborated on implementing the traffic rule system.
+2. Zeynep Yıldız — Unity Developer:
+Created the event handler and input manager. Co-developed the traffic rule system alongside Ege.
+3. Eren Yeşilyurt — 3D Asset Designer:
+Worked on 3D asset creation and optimization for the project.
+5. Göksu Kaya — 3D Asset Designer:
+Responsible for designing and creating 3D assets used throughout the simulator.
+6. İclal Buse Çöğen — Unity Developer:
+Developed VR interaction mechanics and programmed pedestrian AI behaviors.
 
