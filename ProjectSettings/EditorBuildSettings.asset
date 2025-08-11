@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a326f74dda0a68f498dd37f5f4f3253b
+  - enabled: 1
+    path: Assets/Scenes/trainingMap.unity
+    guid: 7347256a3a9ee014a9896ba00f066f23
+  - enabled: 1
+    path: Assets/Scenes/Map1.unity
+    guid: 27647bbc272288542b86080048249396
+  - enabled: 1
+    path: Assets/Scenes/Map2.unity
+    guid: 037abdc7f69f64ea097c448e633b20df
+  - enabled: 1
+    path: Assets/Scenes/ExamMap.unity
+    guid: 7ea96ec1b4344f34685e9cdc20bf27f1
+  - enabled: 1
+    path: Assets/Scenes/Map2_new.unity
+    guid: 0947eec598f673a49859bef226725bf8
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 64677966e91799841aee331a05330cc3, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8dc3e22d739cd86408c966ef5f0f8706, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d1f3beeef0daf41f3982fbbb803fbe2c, type: 2}
+  m_UseUCBPForAssetBundles: 0
